@@ -1,3 +1,4 @@
+![Banner](./naruto-banner.svg)
 ## Hi there 👋
 
 <!--
