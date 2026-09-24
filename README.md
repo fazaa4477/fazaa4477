@@ -1,4 +1,4 @@
-![Banner](./naruto-banner.svg)
+![Banner](./hidden-village-banner.svg)
 ## Hi there 👋
 
 <!--
